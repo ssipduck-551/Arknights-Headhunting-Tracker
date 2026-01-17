@@ -1,0 +1,5 @@
+{
+  "name": "Arknights Headhunting Analyzer",
+  "description": "An application to analyze Arknights gacha history by uploading a JSON file. It provides detailed statistics, summaries, and banner-specific analysis.",
+  "requestFramePermissions": []
+}
